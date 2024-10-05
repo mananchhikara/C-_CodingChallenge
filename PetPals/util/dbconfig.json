@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=LAPTOP-8D3ITF0I;Database=PetPals;Integrated Security=True;TrustServerCertificate=True;"
+  }
+}
